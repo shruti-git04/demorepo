@@ -1,2 +1,2 @@
-# demorepo
-my name is shruti
+# myname 
+hello
